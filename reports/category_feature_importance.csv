@@ -1,0 +1,11 @@
+target,category,importance
+dst_t0,Lag,0.1415263
+dst_t0,Missingness,0.0064986846
+dst_t0,Original,0.13652202
+dst_t0,Physics,0.01149468
+dst_t0,Rolling,0.70395833
+dst_t1,Lag,0.10271479
+dst_t1,Missingness,0.0049017295
+dst_t1,Original,0.14023636
+dst_t1,Physics,0.08146102
+dst_t1,Rolling,0.67068607

@@ -1,0 +1,36 @@
+# Python environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large raw archives
+*.zip
+*.7z
+*.rar
+
+# Temporary files
+*.tmp
+*.bak
+
+# Research datasets (kept locally)
+data/
